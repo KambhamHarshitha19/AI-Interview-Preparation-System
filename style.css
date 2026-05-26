@@ -1,0 +1,41 @@
+.student-table{
+
+    width: 100%;
+
+    border-collapse: collapse;
+
+    margin-top: 20px;
+}
+
+.student-table th{
+
+    background-color: #4facfe;
+
+    color: white;
+
+    padding: 15px;
+
+    font-size: 18px;
+}
+
+.student-table td{
+
+    border: 1px solid #ddd;
+
+    padding: 15px;
+
+    background-color: #f9f9f9;
+}
+
+.student-table input{
+
+    width: 100%;
+
+    padding: 10px;
+
+    border: 2px solid #4facfe;
+
+    border-radius: 8px;
+
+    font-size: 15px;
+}
